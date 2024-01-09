@@ -1,2 +1,2 @@
 # hello-world
-Ideas and practice
+**Ideas to Make Life Easier**
